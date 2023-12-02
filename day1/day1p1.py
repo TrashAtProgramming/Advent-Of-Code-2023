@@ -1,4 +1,4 @@
-document = open("day1.txt").read().splitlines()
+document = open("day1/day1.txt").read().splitlines()
 total = 0
 for i in document:
     for j in i:

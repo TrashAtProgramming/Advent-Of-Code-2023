@@ -1,4 +1,4 @@
-document = open("day1.txt").read().splitlines()
+document = open("day1/day1.txt").read().splitlines()
 nums = {
     "one":1,
     "two":2,
