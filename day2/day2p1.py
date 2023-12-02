@@ -2,8 +2,7 @@ document = open("day2/day2.txt").read().splitlines()
 maximum = {
     "r":12,
     "g":13,
-    "b":14
-}
+    "b":14}
 total = 0
 for line in document:
     possible = True

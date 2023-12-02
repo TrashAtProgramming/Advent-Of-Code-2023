@@ -1,9 +1,4 @@
 document = open("day2/day2.txt").read().splitlines()
-maximum = {
-    "r":0,
-    "g":0,
-    "b":0
-}
 total = 0
 for line in document:
     maximum = {
